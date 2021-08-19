@@ -1,0 +1,8 @@
+/.idea
+/__pycache__
+/venv
+/runs
+/_actor
+/_critic
+/loss
+/reward
